@@ -1,4 +1,4 @@
 # h1
 Functional properties of the blowfly H1 neuron
 
-This repository contains a short report written up as part of Princeton's neu501b laboratory course, taken in the Fall 2019.
+This repository contains a short [report](https://raw.githubusercontent.com/jyanar/h1/main/yanar_lr1.pdf) written up as part of Princeton's neu501b laboratory course, taken in the Fall 2019.
